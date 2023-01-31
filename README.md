@@ -1,7 +1,9 @@
 # Pengyang(jackie)
 
 hi-there
-😆Hi, I’m pengyang(Jackie), currently am working as operation&data analyst at Affine. 
+
+
+😆I’m pengyang(Jackie), currently am working as operation&data analyst at Affine. 
 
 
 🤔Before joining Affine, I'm a guy with around 3years experiences in product operation within tiktok, which's mainly focusing on NLP/CV model training, deployment and successfully delivery.
